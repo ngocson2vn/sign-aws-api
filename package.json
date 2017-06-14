@@ -1,0 +1,20 @@
+{
+  "name": "list-db-clusters",
+  "version": "1.0.0",
+  "private": true,
+  "description": "list-db-clusters",
+  "main": "handler.js",
+  "dependencies": {
+    "request": "^2.81.0",
+    "sprintf-js": "^1.1.1",
+    "utf8": "^2.1.2",
+    "xml2js": "^0.4.17"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Son Nguyen",
+  "license": "ISC",
+  "false": {}
+}
